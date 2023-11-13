@@ -1,0 +1,57 @@
+html {
+    background-color: rgb(216, 202, 75)
+}
+.container {
+    background-color: aquamarine;
+    margin: 130px auto;
+    padding: 15px 15px;
+    height: 50%;
+    width: 40%;
+    border-radius: 7px;
+    
+}
+.botao1 {
+    background-color: rgb(249, 253, 3);
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    color: black;
+    border-radius: 7px;
+    text-align: center;
+    margin: 8px 190px;
+}
+.botao2 {
+    background-color: rgb(253, 3, 36);
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    color: black;
+    border-radius: 7px;
+    margin: 8px 210px;
+}
+.texto {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.container img {
+    border-radius: 7px;
+}
+.botao0 {
+    background-color: rgb(249, 253, 3);
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    color: black;
+    border-radius: 7px;
+    text-align: center;
+    margin: 8px 190px;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: none;
+    color: black;
+}

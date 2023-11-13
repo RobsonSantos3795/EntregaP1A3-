@@ -1,0 +1,91 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.container > div {
+    flex: 1 1 200px;
+    margin: 10px;
+}
+html{
+    background-color: aqua;
+}
+.imagem{
+    width: 300px;
+    height: 220px;
+    border-radius: 7px;
+    
+}
+.imagem2{
+    width: 300px;
+    height: 220px;
+    border-radius: 7px;
+}
+.imagem3{
+    width: 300px;
+    height: 220px;
+    border-radius: 7px;
+    
+}
+.imagem4{
+    width: 300px;
+    height: 220px;
+    border-radius: 7px;
+
+    
+
+}
+.imagem5{
+    width: 300px;
+    height: 220px;
+    border-radius: 7px;
+    
+}
+.imagem6{
+    width: 300px;
+    height: 220px;
+    border-radius: 7px;
+}
+.imagem7{
+    width: 300px;
+    height: 220px;
+    border-radius: 7px;
+    
+}
+.imagem8{
+    width: 300px;
+    height: 220px;
+    border-radius: 7px;
+    
+}
+.imagem9{
+    width: 300px;
+    height: 220px;
+    border-radius: 7px;
+    
+}
+.titulo{
+    background-color: rgb(66, 172, 136);
+    text-align: center;
+    font-size: 25px;
+    padding: 15px;
+}
+html{
+    padding: 40px;
+}
+.mouse {
+    text-decoration: black;
+    background-color: rgb(249, 253, 3);
+    color: black;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: 25px;
+}
+a:link {
+    text-decoration: black;
+    color: black;
+}
+a:hover {
+    text-decoration: black;
+    color: black;
+}
